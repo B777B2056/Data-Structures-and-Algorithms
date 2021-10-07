@@ -1,0 +1,128 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CPP/Data Structures and Algorithms/inc/application.hpp
+string
+-
+iostream
+-
+stack_queue.hpp
+-
+
+D:/CPP/Data Structures and Algorithms/inc/avl.hpp
+bst.hpp
+D:/CPP/Data Structures and Algorithms/inc/bst.hpp
+iostream
+-
+
+D:/CPP/Data Structures and Algorithms/inc/binary_tree.hpp
+vector
+-
+linkedlist.hpp
+D:/CPP/Data Structures and Algorithms/inc/linkedlist.hpp
+stack_queue.hpp
+D:/CPP/Data Structures and Algorithms/inc/stack_queue.hpp
+
+D:/CPP/Data Structures and Algorithms/inc/bst.hpp
+binary_tree.hpp
+D:/CPP/Data Structures and Algorithms/inc/binary_tree.hpp
+
+D:/CPP/Data Structures and Algorithms/inc/graph.hpp
+stack_queue.hpp
+D:/CPP/Data Structures and Algorithms/inc/stack_queue.hpp
+set.hpp
+D:/CPP/Data Structures and Algorithms/inc/set.hpp
+assert.h
+-
+iostream
+-
+vector
+-
+
+D:/CPP/Data Structures and Algorithms/inc/hashtable.hpp
+iostream
+-
+
+D:/CPP/Data Structures and Algorithms/inc/heap.hpp
+
+D:/CPP/Data Structures and Algorithms/inc/huffman.hpp
+map
+-
+string
+-
+heap.hpp
+D:/CPP/Data Structures and Algorithms/inc/heap.hpp
+iostream
+-
+
+D:/CPP/Data Structures and Algorithms/inc/kmp.hpp
+string
+-
+vector
+-
+iostream
+-
+
+D:/CPP/Data Structures and Algorithms/inc/linkedlist.hpp
+vector
+-
+iostream
+-
+
+D:/CPP/Data Structures and Algorithms/inc/set.hpp
+vector
+-
+functional
+-
+iostream
+-
+
+D:/CPP/Data Structures and Algorithms/inc/sort.hpp
+iostream
+-
+
+D:/CPP/Data Structures and Algorithms/inc/stack_queue.hpp
+iostream
+-
+
+D:/CPP/Data Structures and Algorithms/src/main.cpp
+../inc/linkedlist.hpp
+D:/CPP/Data Structures and Algorithms/inc/linkedlist.hpp
+../inc/stack_queue.hpp
+D:/CPP/Data Structures and Algorithms/inc/stack_queue.hpp
+../inc/binary_tree.hpp
+D:/CPP/Data Structures and Algorithms/inc/binary_tree.hpp
+../inc/bst.hpp
+D:/CPP/Data Structures and Algorithms/inc/bst.hpp
+../inc/avl.hpp
+D:/CPP/Data Structures and Algorithms/inc/avl.hpp
+../inc/heap.hpp
+D:/CPP/Data Structures and Algorithms/inc/heap.hpp
+../inc/huffman.hpp
+D:/CPP/Data Structures and Algorithms/inc/huffman.hpp
+../inc/set.hpp
+D:/CPP/Data Structures and Algorithms/inc/set.hpp
+../inc/graph.hpp
+D:/CPP/Data Structures and Algorithms/inc/graph.hpp
+../inc/hashtable.hpp
+D:/CPP/Data Structures and Algorithms/inc/hashtable.hpp
+../inc/kmp.hpp
+D:/CPP/Data Structures and Algorithms/inc/kmp.hpp
+../inc/sort.hpp
+D:/CPP/Data Structures and Algorithms/inc/sort.hpp
+../inc/application.hpp
+D:/CPP/Data Structures and Algorithms/inc/application.hpp
+map
+-
+vector
+-
+string
+-
+algorithm
+-
+

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/CPP/Data Structures and Algorithms/build",
+  "command": "g++  @CMakeFiles/main.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\main.dir\\src\\application.cpp.obj -c \"D:\\CPP\\Data Structures and Algorithms\\src\\application.cpp\"",
+  "file": "D:/CPP/Data Structures and Algorithms/src/application.cpp"
+},
+{
+  "directory": "D:/CPP/Data Structures and Algorithms/build",
+  "command": "g++  @CMakeFiles/main.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"D:\\CPP\\Data Structures and Algorithms\\src\\main.cpp\"",
+  "file": "D:/CPP/Data Structures and Algorithms/src/main.cpp"
+}
+]
